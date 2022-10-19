@@ -1,0 +1,19 @@
+body{
+    background-color: #0f0f0f;
+    color: white;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#mainCanvas{
+    outline: 1px solid white;
+    outline-offset: -1px;
+    width: 100vw;
+    height: 100vh;
+}
